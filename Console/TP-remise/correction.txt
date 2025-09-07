@@ -1,0 +1,152 @@
+**************************
+Fichier de correction TP3
+**************************
+
+Étudiant 1
+---------------
+Prénom et Nom: Torben Johnson
+Numéro de dossier (NI): 536 778 009
+Temps de réalisation: 7h
+
+Étudiant 2
+---------------
+Prénom et Nom: Nesrine Imloul
+Numéro de dossier (NI):111290248
+Temps de réalisation:8h
+
+Étudiant 3
+---------------
+Prénom et Nom: Nicolas Campeau
+Numéro de dossier (NI): 536 781 691
+Temps de réalisation: 5h
+
+
+*******************************************
+******* Jouabilité (20 points)      *******
+*******************************************
+
+/10 Les règles du jeu sont respectées.
+    Commentaires:
+
+/5 L'affichage est fluide et agréable.
+    Commentaires:
+
+/5 Le jeu ne bogue pas.
+    Commentaires:
+
+*******************************************
+******* Méthodes (75 points)        *******
+*******************************************
+
+#######################
+# Arene               #
+#######################
+
+/3 dans_arene
+   Commentaires:
+
+/3 effectuer_lancer
+   Commentaires:
+
+/3 relancer_des_accroches
+   Commentaires:
+
+/3 placer_nouveau_de
+   Commentaires:
+
+/3 effectuer_plusieurs_lancers
+   Commentaires:
+
+/3 rangement
+   Commentaires:
+
+/3 retirer_les_x
+   Commentaires:
+
+/3 compter_valeurs
+   Commentaires:
+
+/3 retirer_correspondances
+   Commentaires:
+
+/3 correspondance_existe
+   Commentaires: 
+
+/3 est_vide
+   Commentaires:
+
+/3 retirer_de
+   Commentaires:
+
+/3 rendre_au_joueur
+   Commentaires:
+
+#######################
+# De                  #
+#######################
+
+/3 affichage_string
+   Commentaires:
+
+#######################
+# Gladeateur          #
+#######################
+
+/3 joueur_en_cours
+   Commentaires:
+
+/3 changer_joueur
+   Commentaires:
+
+/3 calculer_victoire
+   Commentaires:
+
+#######################
+# Joueur              #
+#######################
+
+/3 creer_lancer
+   Commentaires:
+
+/3 traitement_continuer
+   Commentaires:
+
+/3 traitement_coordonnees
+   Commentaires:
+
+/3 traitement_angle
+   Commentaires:
+
+/3 traitement_puissance
+   Commentaires:
+
+/3 est_elimine
+   Commentaires:
+
+/3 rendre_de
+   Commentaires:
+
+/3 table_rase
+   Commentaires:
+
+
+*******************************************
+******* Qualité du code (5 points)   *******
+*******************************************
+
+/5 Qualité du code
+    Commentaires:
+
+
+
+Pénalités pour non-respect des consignes
+----------------------------------------
+
+
+
+Autres commentaires du correcteur
+---------------------------------
+
+
+
+Total: /100
