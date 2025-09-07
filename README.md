@@ -1,8 +1,5 @@
 # Object-Oriented Programming and GUI in Python
-
-This project demonstrates the progression from **Object-Oriented Programming (OOP)** in Python to the creation of a **Graphical User Interface (GUI)** using Tkinter.  
-
----
+This project demonstrates the progression from **Object-Oriented Programming (OOP)** in Python to the creation of a **Graphical User Interface (GUI)** using Tkinter. 
 
 ## Project Overview
 - **Console Version (OOP)**  
@@ -16,19 +13,13 @@ This project demonstrates the progression from **Object-Oriented Programming (OO
   - Added computer players and visual dice rendering.  
   - Practiced event-driven programming.  
 
----
-
 ##  Repository Structure
 - `Console/` → console-based OOP implementation  
 - `GUI/` → Tkinter-based GUI implementation  
-
----
 
 ## Technologies
 - Python 3  
 - Object-Oriented Programming (OOP)  
 - Tkinter (GUI toolkit)  
 - Event-driven programming  
-
----
 
